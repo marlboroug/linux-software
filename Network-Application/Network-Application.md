@@ -17,7 +17,7 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|Firefox|Linux下最广泛使用的浏览器|TODO|★★★★☆| TODO |配合插件使用，见TODO[]()
+|Firefox|Linux下最广泛使用的浏览器|[Firefox-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Firefox-install.md)|★★★★☆| [Firefox详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Firefox.md) |[Firefox插件汇总](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Firefox-addons.md)
 |Chrome |一款成熟且有发展前景的浏览器|TODO|★★★★☆|TODO|TODO|
 |Konqueror| Web浏览器+文件浏览器|---|★★★☆☆|---|---|
 |Opera|---|---|★★★☆☆|---|---|
