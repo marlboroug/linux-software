@@ -1,18 +1,13 @@
 # linux-software
 
-Welcome to the linux-software wiki!
 
+- [Intro](#linux经典软件索引)
 
-- [Intro](#intro)
-- [Installation](#installation)
-
-## intro
-# install
 
 
 ## linux经典软件索引
 
-### 1. [网络应用](https://github.com/asin929/linux-software/wiki/Network-Application)
+### 1. [网络应用](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
 + 网页浏览器
 + 文本界面的网页浏览器
 + 聊天软件
