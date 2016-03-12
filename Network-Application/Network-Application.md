@@ -3,7 +3,6 @@
 # 目录
 
 - [网页浏览器](#网页浏览器)
-  - [Firefox](#Firefox)
 - [文本界面的网页浏览器](#文本界面的网页浏览器)
 - [聊天软件](#聊天软件)
 - [Email 客户端](#Email 客户端)
@@ -16,76 +15,30 @@
 # 网页浏览器
 
 
-|软件|简介|安装配置|星级|详情|
-|---|---|---|---|---|
-|Firefox|Linux下最成熟也是人气最高的浏览器|待添加|★★★★☆| 待添加 |
+|软件|简介|安装配置|星级|详情|注释|
+|---|---|---|---|---|---|
+|Firefox|Linux下最广泛使用的浏览器|TODO|★★★★☆| TODO |配合插件使用，见TODO[]()
+|Chrome |一款成熟且有发展前景的浏览器|TODO|★★★★☆|TODO|TODO|
+|Konqueror| Web浏览器+文件浏览器|---|★★★☆☆|---|---|
+|Opera|---|---|★★★☆☆|---|---|
+|Seamonkey|---|---|★★★☆☆|---|---|
+|Conkeror|---|---|★★★☆☆|---|---|
+|Orphne|---|---|★★★☆☆|---|---|
+|dillo|---|---|★★★☆☆|---|---|
 
 
-## Firefox
+----
+[↑ 返回上级](https://github.com/asin929/linux-software)
 
-+ 简介
+[← 返回首页](https://github.com/asin929/linux-software)
 
-    Linux下最成熟也是人气最高的浏览器，有众多的插件可供选择，还支持支付宝。Firefox一般是Linux系统自带的默认浏览器。Firefox对各类网页的支持非常好，而且非常稳定。这也是我最喜欢的浏览器，唯一感觉不方便的是快捷键不能自己定制。最新的Firefox 37.0.2还有视频功能呢，边工作边偷摸的跟媳妇儿视频，感觉是不是很棒？Firefox还有开发工具，比如著名的Firebug.
 
-    Firefox有一个vimperator插件，允许你用Vim的快捷键来进行一些操作。喜欢VIM的朋友可以尝试下。Windows下还有款Waterfox(水狐)浏览器，有意思，这事要跟Firefox对着干的节奏吗？
 
-+ 安装
 
-+ 星级
 
-    ★★★★☆
 
-**Konqueror**
 
-Konqueror是KDE桌面系统的一部分，主要用于文件管理、各种格式档案的查看，以及网页浏览。它有以下区别于其它浏览器的优点：
 
-1. 支持用Firefox, Chrome打开网页
-
-2. 丰富的快捷键功能
-
-3. Web浏览器, 文件浏览器于一体
-
-4. 运行速度非常快, 快于Chrome
-
-5. 跟KDE结合的非常紧密！
-
-6. Konqueror“狗皮膏药”。konqueror称它们为”access key”，按ctrl键之后显示出来，用户只要再按一下对应的按键，就可以跳到对应的链接去了。
-
-当然它也有一些缺点： 没有Firefox, Chrome稳定，有些网页支持不太好，但不多。有时候还会占用很多的系统资源。
-
-**Chrome**
-
-Chrome是Google公司开发的开放源代码的网页浏览器，是一款成熟且有发展前景的浏览器，毕竟它的东家可是Google。Chrome最大的特点是简洁高效，速度快。因为Chrome在我的Fedora系统中有些网页的字体显示有问题，所以目前我把它作为我的第二浏览器使用。不得不说Chrome现在有赶超Firefox的势头。使用Chrome浏览时，还可以充分利用Google的功能。将Chrome与Google结合使用时，您不仅可以获得相关度更高的查询建议，还可以利用各种Google产品（包括语音搜索和Google即时）的功能。
-
-**Opera**
-
-首先Opera不是一款开源的浏览器，但它是免费使用的。Opera给我的最大的感觉是定制性比Firefox, Chrome强太多，尤其是快捷键，你几乎可以给任意想要的操作分配快捷键。虽然插件没有Firefox多，但是不得不说Opera的功能是非常强大的，我最喜欢它所集成的邮件功能。Opera是Linux系统下又一款不错的浏览器。我把Opera放在我的第三个选择上，原因是Opera不稳定，有时候这种不稳定已经影响到我的工作。期待Opera能够越来越好。
-
-Opera也有手机版，手机版和电脑版之间可以同步书签。
-
-**Seamonkey**
-
-这是一款自由开源、跨平台的互联网套装软件（包括一个Web浏览器，电子邮件和新闻组客户端，一个HTML编辑器，一个IRC聊天和网页开发工具），由Mozilla基金会创建，之后转由旗下的SeaMonkey项目领导团队开发。它是Firefox经典版 + Thunderbird经典版的组合。
-
-**Conkeror**
-
-这是一款非常有趣的浏览器。写在这里主要是因为它的操作模式非常不同。Conkeror是为Emacs狂热粉丝准备的。通过它，你可以以Emacs之道来畅游网络。用它来操作网页和用Emacs来操作文本非常非常的像，如果你是Emacs控的话，推荐尝试下。个人感觉它只能作为一款初级的浏览器，主要原因有两个, 一个是它对很多东西支持不是太好，比如图片和图像。另一个原因是因为它有很多Bug。其实还是蛮期待这款浏览器的，可惜它的社区力量有点薄弱。
-
-**Orphne**
-
-成人浏览器，你们懂的。官方网站：[http://orphne.sourceforge.net/main.html](http://orphne.sourceforge.net/main.html) 感兴趣的童鞋自己试吧。大千世界无奇不有，Linux世界如此的精彩和多样。
-
-## 其它
-
-**dillo**
-
-一款小巧的网页浏览器（源代码约420 KB，二进制程序约350KB。），遵循GPL协议。用C语言编写，使用了GTK+ toolkit，该浏览器特别适合运行于老计算机，以及嵌入系统。
-
-## 选择
-
-KDE环境下： Firefox &gt; Chrome &gt; Opera &gt; Konqueror &gt; Seamonkey
-
-非KDE环境： Firefox &gt; Chrome &gt; Opera &gt; Seamonkey
 
 ---
 # 文本界面的网页浏览器
