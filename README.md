@@ -96,3 +96,14 @@
 + 博客工具
 + 监控应用
 + Linux终端
+
+## 参考
+[1] [Linux下的经典软件-史上最全](http://kongll.github.io/2015/06/23/Linux%E4%B8%8B%E7%9A%84%E7%BB%8F%E5%85%B8%E8%BD%AF%E4%BB%B6-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8/)
+
+[2] [deepin软件推荐](http://wiki.deepin.org/index.php?title=%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
+
+[3] [Linux平台常用软件总结（Ubuntu版）](http://egrcc.github.io/2014/05/31/linux-software/#)
+
+[4] [Ubuntu速配指南之软件参考](http://wiki.ubuntu.org.cn/Qref/Apps)
+
+[5] [我的Ubuntu软件和日常应用整理列表 ](http://yife.im/software-list-under-ubuntu/)
