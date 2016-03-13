@@ -24,7 +24,7 @@
 |vim|编辑器之神|[vim-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/vim/vim-install.md)+[vim-config](https://github.com/asin929/linux-software/blob/master/Text-Processing/vim/vim-config.md)|★★★★★|[vim详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/vim/vim.md)|[vim插件汇总](https://github.com/asin929/linux-software/blob/master/Text-Processing/vim/vim-addon.md)|
 |emacs|神的编辑器|[emacs-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/emacs/emacs-install.md)|★★★★★|[vim详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/emacs/emacs.md)|TODO|
 |Atom|GitHub出的编辑器|[Atom-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/Atom/Atom-install.md)|★★★★☆|[Atom详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/Atom/Atom.md)|TODO|
-|Sublime-Text|高效、跨平台的编辑器|[Sublime Text-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/Sublime-Text/Sublime-Text-install.md)|★★★★☆|[Sublime-Text详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/Sublime-Text/Sublime-Text.md)|TODO|
+|Sublime-Text|高效、跨平台的编辑器|[Sublime Text-install](https://github.com/asin929/linux-software/blob/master/Text-Processing/Sublime-Text/Sublime-Text-install.md)|★★★★☆|[Sublime-Text详情](https://github.com/asin929/linux-software/blob/master/Text-Processing/Sublime-Text/Sublime-Text.md)|[Sublime-Text插件汇总](https://github.com/asin929/linux-software/blob/master/Text-Processing/Sublime-Text/Sublime-Text-addon.md)]|
 
 
 ---
