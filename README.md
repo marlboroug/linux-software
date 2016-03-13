@@ -38,9 +38,9 @@
 + [文本编辑（2/16进制）](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%EF%BC%882/16%E8%BF%9B%E5%88%B6%EF%BC%89)
 
 
-### 4. [文件处理](wiz://open_document?guid=a3ead1d2-bea2-410f-879f-b6fb6506a527&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 文件管理
-+ 文件差异比较工具
+### 4. [文件处理](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md)
++ [文件管理](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
++ [文件差异比较工具](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E5%B7%AE%E5%BC%82%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7)
 
 ### 5. [办公应用](wiz://open_document?guid=e2f31da1-8ec3-4346-83ce-da33727b704a&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 办公套件
