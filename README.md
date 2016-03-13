@@ -1,10 +1,10 @@
 
 ## 任务分工
-|成员|章节|
-|---|---|
-|[RacingDawn](https://github.com/RacingDawn)|7,8,9|
-|[qiudeyang](https://github.com/qiudeyang)|10.14|
-|[asin929](https://github.com/asin929)|其余章节|
+|成员|章节|是否完成|
+|---|---|---|
+|[RacingDawn](https://github.com/RacingDawn)|7,8,9|否|
+|[qiudeyang](https://github.com/qiudeyang)|10.14|否|
+|[asin929](https://github.com/asin929)|其余章节|否|
 
 ## linux经典软件索引
 
