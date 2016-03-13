@@ -73,7 +73,7 @@
 |kTorrent|KDE下的一款BT下载工具|[kTorrent-install](https://github.com/asin929/linux-software/blob/master/Network-Application/kTorrent/kTorrent-install.md)|★★★★☆|[kTorrent详情](https://github.com/asin929/linux-software/blob/master/Network-Application/kTorrent/kTorrent.md)|TODO|
 |rtorrent|一个Linux下控制台的BT客户端程序|[rtorrent-install](https://github.com/asin929/linux-software/blob/master/Network-Application/rtorrent/rtorrent-install.md)|★★★★☆|[rtorrent详情](https://github.com/asin929/linux-software/blob/master/Network-Application/rtorrent/rtorrent.md)|TODO|
 
-
+---
 ## 非BT下载工具
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|

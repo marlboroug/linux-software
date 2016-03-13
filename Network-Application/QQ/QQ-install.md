@@ -73,7 +73,10 @@ pidgin-lwqq的本质是基于webqq的，最近webqq的登录改为了只能由�
 
 ---
 ## 四、参考
+
 1. [Fedora 21 安装QQ国际版](http://www.cnblogs.com/inthedark/p/4428206.html)
+
+
 ----
 [↑ 返回上级](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
 
