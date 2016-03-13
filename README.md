@@ -87,7 +87,7 @@
 
 ### 14. [工具汇总](wiz://open_document?guid=762dd123-a244-494b-829b-00993f63b1c2&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 运维配置管理工具
-+ 性能测试工具
++ [性能测试工具](http://gitlab.local/toplevel/knowledgebase/wikis/Linux_Performance)
 + 压力测试工具
 + 博客工具
 + 监控应用
