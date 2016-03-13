@@ -1,7 +1,3 @@
-# linux-software
-
-
-
 
 
 ## linux经典软件索引
