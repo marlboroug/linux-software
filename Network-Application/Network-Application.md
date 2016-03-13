@@ -14,7 +14,7 @@
 
 
 ---
-# 网页浏览器
+## 网页浏览器
 
 
 |软件|简介|安装配置|星级|详情|注释|
@@ -23,14 +23,14 @@
 |Chrome |一款成熟且有发展前景的浏览器|[Chrome-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Chrome/Chrome-install.md)|★★★★☆|[Chrome详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Chrome/Chrome.md)|TODO|
 |Konqueror| Web浏览器+文件浏览器|[Konqueror-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Konqueror/Konqueror-install.md)|★★★☆☆|[Konqueror详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Konqueror/Konqueror.md)|TODO|
 |Opera|---|[Opera-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Opera/Opera-install.md)|★★★☆☆|[Opera详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Opera/Opera.md)|TODO|
-|Seamonkey|---|[Seamonkey-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Seamonkey/Seamonkey-install.md)|★★★☆☆|[Seamonkey详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Seamonkey/Seamonkey.md)|---|
+|Seamonkey|---|[Seamonkey-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Seamonkey/Seamonkey-install.md)|★★★☆☆|[Seamonkey详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Seamonkey/Seamonkey.md)|TODO|
 |Conkeror|---|[Conkeror-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Conkeror/Conkeror-install.md)|★★★☆☆|[Conkeror详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Conkeror/Conkeror.md)|TODO|
 |Orphne|---|[Orphne-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Orphne/Orphne-install.md)|★★★☆☆|[Orphne详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Orphne/Orphne.md)|TODO|
 |dillo|---|[dillo-install](https://github.com/asin929/linux-software/blob/master/Network-Application/dillo/dillo-install.md)|★★★☆☆|[dillo详情](https://github.com/asin929/linux-software/blob/master/Network-Application/dillo/dillo.md)|TODO|
 
 
 ---
-# 文本界面的网页浏览器
+## 文本界面的网页浏览器
 
 
 |软件|简介|安装配置|星级|详情|注释|
@@ -42,7 +42,7 @@
 |links|命令行web浏览器|[links-install](https://github.com/asin929/linux-software/blob/master/Network-Application/links/links-install.md)|★★★☆☆|[links详情](https://github.com/asin929/linux-software/blob/master/Network-Application/links/links.md)|TODO|
 
 ---
-# 聊天软件
+## 聊天软件
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
@@ -52,12 +52,12 @@
 |Empathy |TODO|[Empathy-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Empathy/Empathy-install.md)|★★★★☆|[Empathy详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Empathy/Empathy.md)|TODO|
 |WeeChat |---|[WeeChat-install](https://github.com/asin929/linux-software/blob/master/Network-Application/WeeChat/WeeChat-install.md)|★★★★☆|[WeeChat详情](https://github.com/asin929/linux-software/blob/master/Network-Application/WeeChat/WeeChat.md)|TODO|
 |ERC |---|[ERC-install](https://github.com/asin929/linux-software/blob/master/Network-Application/ERC/ERC-install.md)|★★★★☆|[ERC详情](https://github.com/asin929/linux-software/blob/master/Network-Application/ERC/ERC.md)|TODO|
-|Firefox/Thunderbird IRC addon |---|[Firefox/Thunderbird IRC addon-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Thunderbird IRC addon/Firefox/Thunderbird IRC addon-install.md)|★★★★☆|[Firefox/Thunderbird IRC addon-详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Thunderbird IRC addon/Firefox/Thunderbird IRC addon.md)|★★★☆☆|TODO|TODO|
+|Firefox/Thunderbird IRC addon |---|[Firefox/Thunderbird IRC addon-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Thunderbird IRC addon/Firefox/Thunderbird IRC addon-install.md)|★★★★☆|[Firefox/Thunderbird IRC addon-详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Thunderbird IRC addon/Firefox/Thunderbird IRC addon.md)|TODO|
 |Skype |---|[Skype-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Skype/Skype-install.md)|★★★★☆|[Skype详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Skype/Skype.md)|TODO|
-|Kopete |KDE的一个子项目，支持多协议的即时通信|[Kopete-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Kopete/Kopete-install.md)|★★★☆☆|[Kopete详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Kopete/Kopete.md)|TODO|
+|Kopete |支持多协议即时通信的KDE项目|[Kopete-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Kopete/Kopete-install.md)|★★★☆☆|[Kopete详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Kopete/Kopete.md)|TODO|
 
 ---
-# Email 客户端
+## Email 客户端
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |Thunderbird|Linux系统下最好的邮件客户端|[Thunderbird-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Thunderbird/Thunderbird-install.md)|★★★★★|[Thunderbird详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Thunderbird/Thunderbird.md)|TODO|
@@ -67,14 +67,14 @@
 
 
 ---
-# BT下载工具
+## BT下载工具
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |kTorrent|KDE下的一款BT下载工具|[kTorrent-install](https://github.com/asin929/linux-software/blob/master/Network-Application/kTorrent/kTorrent-install.md)|★★★★☆|[kTorrent详情](https://github.com/asin929/linux-software/blob/master/Network-Application/kTorrent/kTorrent.md)|TODO|
 |rtorrent|一个Linux下控制台的BT客户端程序|[rtorrent-install](https://github.com/asin929/linux-software/blob/master/Network-Application/rtorrent/rtorrent-install.md)|★★★★☆|[rtorrent详情](https://github.com/asin929/linux-software/blob/master/Network-Application/rtorrent/rtorrent.md)|TODO|
 
 
-# 非BT下载工具
+## 非BT下载工具
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |wget|常用的下载工具|[wget-install](https://github.com/asin929/linux-software/blob/master/Network-Application/wget/wget-install.md)|★★★★☆|[wget详情](https://github.com/asin929/linux-software/blob/master/Network-Application/wget/wget.md)|TODO|
@@ -83,7 +83,7 @@
 
 
 ---
-# 文件传输
+## 文件传输
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |rsync|一款高效的远程数据备份和镜象工具|[rsync-install](https://github.com/asin929/linux-software/blob/master/Network-Application/rsync/rsync-install.md)|★★★★☆|[rsync详情](https://github.com/asin929/linux-software/blob/master/Network-Application/rsync/rsync.md)|TODO|
@@ -91,7 +91,7 @@
 |rcp|rcp已经被scp取代|[rcp-install](https://github.com/asin929/linux-software/blob/master/Network-Application/rcp/rcp-install.md)|★★★☆☆|[rcp详情](https://github.com/asin929/linux-software/blob/master/Network-Application/rcp/rcp.md)|TODO|
 
 ---
-# FTP客户端
+## FTP客户端
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
 |lftp|功能全的FTP客户端|[lftp-install](https://github.com/asin929/linux-software/blob/master/Network-Application/lftp/lftp-install.md)|★★★★★|[lftp详情](https://github.com/asin929/linux-software/blob/master/Network-Application/lftp/lftp.md)|TODO|
