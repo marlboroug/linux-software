@@ -74,7 +74,7 @@
 + 监控应用
 + Linux终端
 
-### 14. [大数据专栏](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
+### 14. [大数据专栏](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
 + Hadoop
 + Spark
 + Pig
