@@ -15,7 +15,7 @@
 
 ### 2. [网络应用](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
 + [网页浏览器](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8)
-+ [文本界面的网页浏览器]https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E6%9C%AC%E7%95%8C%E9%9D%A2%E7%9A%84%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8()
++ [文本界面的网页浏览器](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E6%9C%AC%E7%95%8C%E9%9D%A2%E7%9A%84%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8)
 + [聊天软件](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6)
 + [Email 客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#Email%20%E5%AE%A2%E6%88%B7%E7%AB%AF)
 + [下载工具](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
