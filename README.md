@@ -74,6 +74,13 @@
 + 监控应用
 + Linux终端
 
-### 14. [其它工具](wiz://open_document?guid=01de3f88-2178-4be0-beae-c5624171a885&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 其它实用工具
-+ 其它有趣工具
+### 14. [大数据专栏](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
++ Hadoop
++ Spark
++ Pig
++ Hive
++ HBase
++ Oozie
++ HUE
++ Mahout
++ Flume
