@@ -31,11 +31,11 @@
 + [文件传输](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 + [FTP客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#FTP%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
-### 3. [文本处理](wiz://open_document?guid=a597de47-0492-443d-91a2-6861314a623e&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 文本查看
-+ 文本编辑
-+ 文本查看（2/16进制）
-+ 文本编辑（2/16进制）
+### 3. [文本处理](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md)
++ [文本查看](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E6%9F%A5%E7%9C%8B)
++ [文本编辑](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
++ [文本查看（2/16进制）](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E6%9F%A5%E7%9C%8B%EF%BC%882/16%E8%BF%9B%E5%88%B6%EF%BC%89)
++ [文本编辑（2/16进制）](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%EF%BC%882/16%E8%BF%9B%E5%88%B6%EF%BC%89)
 
 
 ### 4. [文件处理](wiz://open_document?guid=a3ead1d2-bea2-410f-879f-b6fb6506a527&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
