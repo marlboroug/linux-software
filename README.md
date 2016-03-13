@@ -29,6 +29,7 @@
 + [非BT下载工具](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E9%9D%9EBT%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 + [文件传输](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 + [FTP客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#FTP%E5%AE%A2%E6%88%B7%E7%AB%AF)
++ [VNC]
 
 ### 3. [文本处理](wiz://open_document?guid=a597de47-0492-443d-91a2-6861314a623e&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 文本编辑
