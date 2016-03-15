@@ -1,13 +1,9 @@
 ##  运维配置管理工具
 
 |工具|简介|安装配置|星级|详情|备注|
-
 |---|---|---|---|---|---|
-
 |Puppet|Linux、Unix、Windows平台的集中配置管理系统|略|★★★★☆|[详情](https://github.com/asin929/linux-software/blob/master/Tools/Puppet/Puppet.md)|无|
-
 |Ansible|GNOME下的下拉式终端|略|★★★☆☆|[详情](https://github.com/asin929/linux-software/blob/master/Tools/Ansible/Ansible.md)|无|
-
 |Foreman|集成的数据中心生命周期管理工具|略|★★★☆☆|[详情](https://github.com/asin929/linux-software/blob/master/Tools/Foreman/Foreman.md)|无|
 
 
