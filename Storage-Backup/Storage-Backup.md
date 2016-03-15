@@ -37,6 +37,6 @@ Dropbox ; ownCloud ; Google Drive
 
 
 ----
-[↑ 返回上级](https://github.com/asin929/linux-software)
+[↑ 返回上级](https://github.com/qiudeyang/linux-software)
 
-[← 返回首页](https://github.com/asin929/linux-software)
+[← 返回首页](https://github.com/qiudeyang/linux-software)
