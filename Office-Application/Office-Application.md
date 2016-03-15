@@ -7,6 +7,9 @@
 - [PDF编辑软件](#PDF编辑软件)
 - [chm阅读器](#chm阅读器)
 - [Markdown编辑器](#Markdown编辑器)
+- [时间管理工具(GTD)](#时间管理工具(GTD))
+- [截图工具](#截图工具)
+- [SlideShow](#SlideShow)
 
 
 ---
@@ -73,139 +76,73 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|kchmviewer|KDE下最好的chm查看器|[kchmviewer-install](https://github.com/asin929/linux-software/blob/master/Office-Application/kchmviewer/kchmviewer-install.md)|★★★★★ |[kchmviewer详情](https://github.com/asin929/linux-software/blob/master/Office-Application/kchmviewer/kchmviewer.md) |TODO|
+|vim|编辑器之神|[vim开启markdown模式](https://github.com/asin929/linux-software/blob/master/Office-Application/vim/vim-install.md)|★★★★★ |[vim详情](https://github.com/asin929/linux-software/blob/master/Office-Application/vim/vim.md) |TODO|
+|ReText|linux常用的markdown编辑器|[ReText-install](https://github.com/asin929/linux-software/blob/master/Office-Application/ReText/ReText-install.md)|★★★★☆ |[ReText详情](https://github.com/asin929/linux-software/blob/master/Office-Application/ReText/ReText.md) |TODO|
+|Cmd-Markdown|全平台的markdown编辑器|[Cmd-Markdown-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Cmd-Markdown/Cmd-Markdown-install.md)|★★★★☆  |[Cmd-Markdown详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Cmd-Markdown/Cmd-Markdown.md) |TODO|
+|[Haroopad](http://pad.haroopress.com/user.html)|功能比较全的markdown编辑器|[Haroopad-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Haroopad/Haroopad-install.md)|★★★★☆ |[Haroopad详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Haroopad/Haroopad.md) |TODO|
+|[Mango](https://github.com/egrcc/Mango)|界面美观，具备基本功能的编辑器|[Mango-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Mango/Mango-install.md)|★★★☆☆ |[Mango详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Mango/Mango.md) |TODO|
+|gedit|常用的编辑器|[gedit-install](https://github.com/asin929/linux-software/blob/master/Office-Application/gedit/gedit-install.md)|★★★☆☆ |[gedit详情](https://github.com/asin929/linux-software/blob/master/Office-Application/gedit/gedit.md) |TODO|
+|[FarBox](https://www.farbox.com/)|集成博客编辑、发布的编辑器|[FarBox-install](https://github.com/asin929/linux-software/blob/master/Office-Application/FarBox/FarBox-install.md)|★★★★☆ |[FarBox详情](https://github.com/asin929/linux-software/blob/master/Office-Application/FarBox/FarBox.md) |TODO|
+|[editor.md](https://pandao.github.io/editor.md/)|The open source embeddable online markdown editor (component)|TODO|★★★★☆ |TODO|TODO|
 
-参见[linux环境下Markdown编辑器汇总](http://blog.csdn.net/u012948976/article/details/48157823)。
 
-**FarBox**
 
-[FarBox](
-https://www.farbox.com/)是一个集成博客编辑、发布的编辑器。编辑markdown文件只是它的其中一项功能，不过却具有编辑markdown的所有功能。**不过该软件在linux下默认不能输入中文，需要设置一下。**
-
-**editor.md**
-
-The open source embeddable online markdown editor (component).https://pandao.github.io/editor.md/
-
-## 选择
-目前使用vim。[StackEdit](https://stackedit.io/)和[作业部落](https://www.zybuluo.com/mdeditor#)作为备用。
-
-## 参考
+**更多参考:**
 1. [用 Markdown 写作用什么文本编辑器？](https://www.zhihu.com/question/19637157)
 2. [好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html)
 
 
 ---
-# 时间管理工具(GTD)
+## 时间管理工具(GTD)
 
-## 工具
-**TickTick**
+|软件|简介|安装配置|星级|详情|注释|
+|---|---|---|---|---|---|
+|TickTick|中文版叫“滴答清单”|官网下载即可|★★★★★ |TODO|TODO|
+|TaskCoach|一款开源的个人事务管理工具|[TaskCoach-install](https://github.com/asin929/linux-software/blob/master/Office-Application/FarBox/FarBox-install.md)|★★★★★ |[TaskCoach详情](https://github.com/asin929/linux-software/blob/master/Office-Application/TaskCoach/TaskCoach.md) |TODO|
+|Calcurse|一个基于文本界面的个人日程安排软件|[Calcurse-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Calcurse/Calcurse-install.md)|★★★★★ |[Calcurse详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Calcurse/Calcurse.md) |TODO|
+|Taskwarrior|一个基于命令行的TODO列表管理工具|[Taskwarrior-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Taskwarrior/Taskwarrior-install.md)|★★★★★ |[Taskwarrior详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Taskwarrior/Taskwarrior.md) |TODO|
+|Tasque|Linux下简单的图形化任务管理工具|[Tasque-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Tasque/Tasque-install.md)|★★★★☆ |[Tasque详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Tasque/Tasque.md) |TODO|
+|Yokadi|命令行任务管理系统|[Yokadi-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Tasque/Tasque-install.md)|★★★★☆ |[Yokadi详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Yokadi/Yokadi.md) |TODO|
 
-中文版叫“滴答清单”。
 
-**TaskCoach**
+**总结**
 
-Task Coach是一款开源的个人事务管理工具，并且主要针对个人的代办事项。这个软件不同于同类型的软件如Outlook或者Lotus Notes等，因为这些软件都不具备合成事务的功能。因为一般来说，一件事务的办理都有几个相关步骤的，而Task Coach正是从这个特性出发而设计的，尤其适合对复杂事件的处理。目前，Task Coach包括创建任务及子任务、设置任务类别、跟踪任务的完成进度、添加任务笔记、打印或输出任务、通知提醒等功能。使用Task Coach这个简单的Todo管理器，相信能让你的工作更加井井有条。
+ 知乎上有全部GTD工具的测评，结论是：如果大家一定要选择一个付费的绝对推荐http://Doit.im，而免费的推荐TickTick。
 
-**Calcurse**
+**参考**
 
-Calcurse是一个基于文本界面的个人日程安排软件，可对事件、委任和每日事务进行跟踪，可配置的提醒系统。
-
-**Taskwarrior**
-
-Taskwarrior是一个基于命令行的TODO列表管理工具。主要功能包括：标签、彩色表格输出、报表和图形、大量的命令、底层API、多用户文件锁等功能。
-
-**emacs**
-
-毫无疑问你可以把Emacs配置成一个GTD工具， 只要你愿意。在Emacs下很容易配置的。
-
-**Tasque**
-
-Tasque是一个Linux下简单的图形化任务管理工具。
-
-**Yokadi**
-
-命令行任务管理系统。
-
-## 选择
-
-想用比较专业的图形界面的任务管理器： TaskCoach。我用过一段时间，但老崩溃，不过TaskCoach目前正处于积极的开发阶段，相信它会越来越稳定的。
-
-想用基于ncurses的带界面的任务管理器： Calcurse
-
-想用命令行下的任务管理器： Taskwarrior
-
-Emacs控： 那就用emacs自己配置出一个GTD吧
-
-推荐： **知乎上有全部GTD工具的测评，结论是：如果大家一定要选择一个付费的绝对推荐http://Doit.im，而免费的推荐TickTick。**
-
-## 参考
 [知乎－－GTD类的工具（如Doit.im，Anydo等）哪种免费且好用点？](https://www.zhihu.com/question/23452348)
 
-# 截图工具
 
-## 工具
+## 截图工具
 
-**系统自带截图工具**
-fedora自带截图工具－－gnome-screenshot，可满足最基本的截图需求，不过不能对截后的图进行二次处理。见[如何使用 gnome-screenshot 截图命令](http://www.linuxeden.com/html/softuse/20130726/141753.html)。
-
-**Shutter**
-Linux下功能最强大的截图软件，满足对截图的任何想象。
-
-**deepin screenshot**
-非常好用的截图工具。
-
-## 选择
-以deepin screenshot为主，实在有特殊需求的时候才用Shutter。
-
+|软件|简介|安装配置|星级|详情|注释|
+|---|---|---|---|---|---|
+|Shutter|Linux下功能最强大的截图软件|[Shutter-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Shutter/Shutter-install.md)|★★★★★ |[Shutter详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Shutter/Shutter.md) |TODO|
+|deepin-screenshot|非常好用的截图工具|[deepin-screenshot-install](https://github.com/asin929/linux-software/blob/master/Office-Application/deepin-screenshot/deepin-screenshot-install.md)|★★★★★ |[deepin-screenshot详情](https://github.com/asin929/linux-software/blob/master/Office-Application/deepin-screenshot/deepin-screenshot.md) |TODO|
+|gnome-screenshot|fedora自带截图工具|[gnome-screenshot-install](https://github.com/asin929/linux-software/blob/master/Office-Application/gnome-screenshot/gnome-screenshot-install.md)|★★★★☆ |[gnome-screenshot详情](https://github.com/asin929/linux-software/blob/master/Office-Application/gnome-screenshot/gnome-screenshot.md) |TODO|
 
 
 ---
-# SlideShow
+## SlideShow
 
-## 工具
+|软件|简介|安装配置|星级|详情|注释|
+|---|---|---|---|---|---|
+|LibreOffice-Impress|类似于Windows下的PowerPoint|[LibreOffice-Impress-install](https://github.com/asin929/linux-software/blob/master/Office-Application/LibreOffice-Impress/LibreOffice-Impress-install.md)|★★★★☆ |[LibreOffice-Impress详情](https://github.com/asin929/linux-software/blob/master/Office-Application/LibreOffice-Impress/LibreOffice-Impress.md) |TODO|
+|Beamer| a LaTeX package for writing presentations|[Beamer-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Beamer/Beamer-install.md)|★★★★☆ |[Beamer详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Beamer/Beamer.md) |TODO|
+|reveal.js|  an Org-mode extension that exports Org documents into Reveal.js presentations|[reveal.js-install](https://github.com/asin929/linux-software/blob/master/Office-Application/reveal.js/reveal.js-install.md)|★★★★☆ |[reveal.js详情](https://github.com/asin929/linux-software/blob/master/Office-Application/reveal.js/reveal.js.md) |TODO|
+|S5|  a standards-based suite for writing slide-show presentations in html web pages|[S5-install](https://github.com/asin929/linux-software/blob/master/Office-Application/S5/S5-install.md)|★★★★☆ |[S5详情](https://github.com/asin929/linux-software/blob/master/Office-Application/S5/S5.md) |TODO|
+|org-html5presentation|  an Exporter of Org-mode documents to HTML5 slide show presentations|[org-html5presentation-install](https://github.com/asin929/linux-software/blob/master/Office-Application/org-html5presentation/org-html5presentation-install.md)|★★★★☆ |[org-html5presentation详情](https://github.com/asin929/linux-software/blob/master/Office-Application/org-html5presentation/org-html5presentation.md) |TODO|
+|[tpp](http://linuxconfig.org/tpp-the-command-line-presentation-tool)| 命令行模式下的幻灯片展示工具 |[tpp-install](https://github.com/asin929/linux-software/blob/master/Office-Application/tpp/tpp-install.md)|★★★★☆ |[tpp详情](https://github.com/asin929/linux-software/blob/master/Office-Application/tpp/tpp.md) |TODO|
 
-做Slides的方法有很多，每个人的选择会不同，下面是我曾经用来做Slides的工具，仅供参考。
 
-**LibreOffice Impress**
-
-类似于Windows下的PowerPoint, 是做幻灯片的不错选择，如果不喜欢倒腾的话。
-
-**Beamer**
-
-Beamer is a LaTeX package for writing presentations.
-
-**reveal.js**
-
-reveal.js is an Org-mode extension that exports Org documents into Reveal.js presentations. Reveal.js is a web-based presentation framework with 3-D effects, customizable themes and animations, powered by the latest HTML5 technologies.
-
-**S5**
-
-S5 is a standards-based suite for writing slide-show presentations in html web pages. The browser is used as the presentation engine, and a slightly altered form of Org-mode’s HTML export serves as the base of the presentation.
-
-**org-html5presentation**
-
-org-html5presentation is an Exporter of Org-mode documents to HTML5 slide show presentations.
-
-**tpp**
-
-命令行模式下的幻灯片展示工具 [tpp - the command line presentation tool ](http://linuxconfig.org/tpp-the-command-line-presentation-tool)
-
-## 参考
+**参考**
 
 [Tools for Creating Screen or Online Presentations](http://www.miwie.org/presentations/presentations.html)
 
 [Writing Beamer presentations in org-mode](http://orgmode.org/worg/exporters/beamer/tutorial.html)
 
 [Writing Non-Beamer presentations in org-mode](http://orgmode.org/worg/org-tutorials/non-beamer-presentations.html)
-
-## 选择
-
-我用的是Beamer，效果大家可以下载[emacs介绍(PDF幻灯片)](
-http://download.csdn.net/detail/u011634421/8460901)查看。
-
-
-
-
 
 
 
