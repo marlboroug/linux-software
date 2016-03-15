@@ -34,7 +34,7 @@
 ### 3. [办公应用](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md)
 + [办公套件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E5%8A%9E%E5%85%AC%E5%A5%97%E4%BB%B6)
 + [输入法](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E8%BE%93%E5%85%A5%E6%B3%95)
-+ [PDF阅读软件]https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#PDF%E9%98%85%E8%AF%BB%E8%BD%AF%E4%BB%B6)
++ [PDF阅读软件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#PDF%E9%98%85%E8%AF%BB%E8%BD%AF%E4%BB%B6)
 + [PDF编辑软件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#PDF%E7%BC%96%E8%BE%91%E8%BD%AF%E4%BB%B6)
 + [chm阅读器](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#chm%E9%98%85%E8%AF%BB%E5%99%A8)
 + [Markdown编辑器](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#Markdown%E7%BC%96%E8%BE%91%E5%99%A8)
