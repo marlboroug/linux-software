@@ -31,16 +31,17 @@
 + [文件传输](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 + [FTP客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#FTP%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
-### 3. [办公应用](wiz://open_document?guid=e2f31da1-8ec3-4346-83ce-da33727b704a&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 办公套件
-+ 输入法
-+ chm阅读器
-+ PDF阅读软件
-+ PDF编辑软件
-+ SlideShow
-+ Markdown编辑器
-+ 时间管理工具(GTD)
-+ 截图工具
+### 3. [办公应用](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md)
++ [办公套件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E5%8A%9E%E5%85%AC%E5%A5%97%E4%BB%B6)
++ [输入法](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E8%BE%93%E5%85%A5%E6%B3%95)
++ [PDF阅读软件]https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#PDF%E9%98%85%E8%AF%BB%E8%BD%AF%E4%BB%B6)
++ [PDF编辑软件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#PDF%E7%BC%96%E8%BE%91%E8%BD%AF%E4%BB%B6)
++ [chm阅读器](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#chm%E9%98%85%E8%AF%BB%E5%99%A8)
++ [Markdown编辑器](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#Markdown%E7%BC%96%E8%BE%91%E5%99%A8)
++ [时间管理工具(GTD)](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%28GTD%29)
++ [截图工具](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7)
++ [SlideShow](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#SlideShow)
+
 
 ### 4. [教育科学](wiz://open_document?guid=2603dfbf-6148-4321-b881-f297f96b1d1f&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 思维导图软件
