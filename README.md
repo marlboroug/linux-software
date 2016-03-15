@@ -3,7 +3,7 @@
 |成员|章节|是否完成|
 |---|---|---|
 |[RacingDawn](https://github.com/RacingDawn)|8,9,10|否|
-|[qiudeyang](https://github.com/qiudeyang)|10.14|否|
+|[qiudeyang](https://github.com/qiudeyang)|11.14|否|
 |[asin929](https://github.com/asin929)|其余章节|否|
 
 ## linux经典软件索引
