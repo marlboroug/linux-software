@@ -1,0 +1,2 @@
+Wireshark（前称Ethereal）是一个网络封包分析软件。网络封包分析软件的功能是撷取网络封包，并尽可能显示出最为详细的网络封包资料。
+Wireshark不是入侵侦测软件（Intrusion DetectionSoftware,IDS）。对于网络上的异常流量行为，Wireshark不会产生警示或是任何提示。然而，仔细分析Wireshark撷取的封包能够帮助使用者对于网络行为有更清楚的了解。Wireshark不会对网络封包产生内容的修改，它只会反映出目前流通的封包资讯。 Wireshark本身也不会送出封包至网络上。
