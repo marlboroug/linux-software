@@ -2,8 +2,8 @@
 ## 任务分工
 |成员|章节|是否完成|
 |---|---|---|
-|[asin929](https://github.com/asin929)|1,2,3,4,5,6,7,12,13|否|
-|[RacingDawn](https://github.com/RacingDawn)|8,9,10|否|
+|[asin929](https://github.com/asin929)|1,2,3,4,5,6,7,10,12,13|否|
+|[RacingDawn](https://github.com/RacingDawn)|8,9|否|
 |[qiudeyang](https://github.com/qiudeyang)|11.14|否|
 
 
@@ -87,10 +87,10 @@
 + [NoSQL数据库](https://github.com/asin929/linux-software/blob/master/Database/Database.md#NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 
-### 13. [程序开发](wiz://open_document?guid=23de15aa-af58-4404-8c0b-862bf2980a94&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 编程IDE
-+ UML图
-+ LDAP管理工具
+### 13. [程序开发](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md)
++ [编程IDE](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md#%E7%BC%96%E7%A8%8BIDE)
++ [UML图](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md#%E7%BC%96%E7%A8%8BIDE)
++ [LDAP管理工具](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md#LDAP%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 
 ### 14. [工具汇总](wiz://open_document?guid=762dd123-a244-494b-829b-00993f63b1c2&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 运维配置管理工具
