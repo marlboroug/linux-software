@@ -60,8 +60,8 @@
 + [文件管理](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
 + [文件差异比较工具](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E5%B7%AE%E5%BC%82%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7)
 
-### 7. [系统美化](wiz://open_document?guid=3e9616cf-007d-402a-8706-548f16be0c2f&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 桌面环境
+### 7. [系统美化](https://github.com/asin929/linux-software/blob/master/System-Beautification/System-Beautification.md)
++ [桌面环境](https://github.com/asin929/linux-software/blob/master/System-Beautification/System-Beautification.md#%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96)
 
 ### 8. [图像影音](wiz://open_document?guid=33f18df6-5ca3-4315-a4f2-0a31809d1881&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
 + 图像浏览
