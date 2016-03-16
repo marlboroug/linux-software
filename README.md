@@ -81,9 +81,9 @@
 + 云存储
 + 备份软件
 
-### 12. [数据库软件](wiz://open_document?guid=5a77307e-eb93-4b01-8dbd-4030e5a39198&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ SQL数据库
-+ NoSQL数据库
+### 12. [数据库软件](https://github.com/asin929/linux-software/blob/master/Database/Database.md)
++ [SQL数据库](https://github.com/asin929/linux-software/blob/master/Database/Database.md#SQL%E6%95%B0%E6%8D%AE%E5%BA%93)
++ [NoSQL数据库](https://github.com/asin929/linux-software/blob/master/Database/Database.md#NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 
 ### 13. [程序开发](wiz://open_document?guid=23de15aa-af58-4404-8c0b-862bf2980a94&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
