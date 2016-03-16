@@ -45,6 +45,16 @@
 自定义搜索引擎，不过之后还需添加针对中文的支持，即设置编码为“UTF-8”。
 
 
+
+---
+## 有关英语插件
+
+Google TM Translator
+
+S3.Google Translator
+
+这两个插件需要连接Google，故需保证电脑能够翻墙。
+
 ----
 [↑ 返回上级](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
 
