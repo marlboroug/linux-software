@@ -152,13 +152,16 @@ scm_prepare_database.sh命令的详情见[官网－－准备 Cloudera Manager Se
 + CDH-5.3.8-1.cdh5.3.8.p0.5-trusty.parcel.sha
 + manifest.json
 
-未完，[见离线安装Cloudera Manager 5和CDH5.3.8（下）](http://blog.csdn.net/u012948976/article/details/50355650)。
+未完，[见离线安装Cloudera Manager 5和CDH5.3.8（下）](https://github.com/asin929/linux-software/blob/master/Big-Data/CDH/CDH-install-2.md)。
 
 ---
 ## 其它环境安装
 参考链接：
+
 [1].[离线安装Cloudera Manager 5和CDH5(最新版5.1.3) 完全教程](http://www.cnblogs.com/jasondan/p/4011153.html)
+
 [2].[离线安装 Cloudera ( CDH 5.x )](http://www.cnblogs.com/modestmt/p/4540818.html)
+
 [3].[CDH离线安装手册](http://blog.selfup.cn/1486.html)
 
 ----
