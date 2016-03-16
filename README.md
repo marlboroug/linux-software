@@ -9,16 +9,16 @@
 ## linux经典软件索引
 
 ### 1. [大数据专栏](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
-+ CDH
-+ Hadoop
-+ Spark
-+ Pig
-+ Hive
-+ HBase
-+ Oozie
-+ HUE
-+ Mahout
-+ Flume
++ [CDH](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Hadoop](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Spark](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Pig](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Hive](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [HBase](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Oozie](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [HUE](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Mahout](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
++ [Flume](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
 
 ### 2. [网络应用](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md)
 + [网页浏览器](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8)
