@@ -73,3 +73,9 @@ java.lang.Exception: DB schema exists
 ### 8. 查看hadoop进程
 1. 切换到hdfs用户
 2. 执行` /usr/java/jdk1.8.0_60/bin/jps`．实际上输入`jps`即可，但前提是要把JAVA_HOME配置正确．
+
+
+----
+[↑ 返回上级](https://github.com/asin929/linux-software/blob/master/Big-Data/Big-Data.md)
+
+[← 返回首页](https://github.com/asin929/linux-software)
