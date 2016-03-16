@@ -4,6 +4,7 @@
 - [思维导图软件](#思维导图软件)
 - [科学制图](#科学制图)
 - [科学计算](#科学计算)
+- [翻译软件](#翻译软件)
 
 
 ##  思维导图软件
@@ -16,7 +17,9 @@
 
 
 **参考**
+
 1. [XMind:超越FreeMind的思维导图软件（有中文官网啦！）](https://xbeta.info/xmind.htm)
+
 2. [思维导图软件 XMind 与 FreeMind 的对比](https://xbeta.info/xmind-freemind.htm)
 
 
@@ -56,9 +59,7 @@
 
 
 ---
-# 翻译软件
-
-## 工具
+## 翻译软件
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
@@ -69,7 +70,7 @@
 
 
 
-## 更多
+**更多**
 
 +  [Firefox插件中的英语插件部分](https://github.com/asin929/linux-software/blob/master/Network-Application/Firefox/Firefox-addons.md)
 + [有道网页翻译2.0](http://fanyi.youdao.com/web2/)
