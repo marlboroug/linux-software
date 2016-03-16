@@ -43,11 +43,11 @@
 + [SlideShow](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#SlideShow)
 
 
-### 4. [教育科学](wiz://open_document?guid=2603dfbf-6148-4321-b881-f297f96b1d1f&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 思维导图软件
-+ 科学制图
-+ 科学计算
-+ 翻译软件
+### 4. [教育科学](https://github.com/asin929/linux-software/blob/master/Science-Education/Science-Education.md)
++ [思维导图软件](https://github.com/asin929/linux-software/blob/master/Science-Education/Science-Education.md#%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E8%BD%AF%E4%BB%B6)
++ [科学制图](https://github.com/asin929/linux-software/blob/master/Science-Education/Science-Education.md#%E7%A7%91%E5%AD%A6%E5%88%B6%E5%9B%BE)
++ [科学计算](https://github.com/asin929/linux-software/blob/master/Science-Education/Science-Education.md#%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97)
++ [翻译软件](https://github.com/asin929/linux-software/blob/master/Science-Education/Science-Education.md#%E7%BF%BB%E8%AF%91%E8%BD%AF%E4%BB%B6)
 
 ### 5. [文本处理](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md)
 + [文本查看](https://github.com/asin929/linux-software/blob/master/Text-Processing/Text-Processing.md#%E6%96%87%E6%9C%AC%E6%9F%A5%E7%9C%8B)
