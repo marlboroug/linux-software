@@ -11,6 +11,7 @@
 - [非BT下载工具](#非BT下载工具)
 - [文件传输](#文件传输)
 - [FTP客户端](#FTP客户端)
+- [虚拟机](#虚拟机)
 
 
 ---
@@ -97,6 +98,19 @@
 |lftp|功能全的FTP客户端|[lftp-install](https://github.com/asin929/linux-software/blob/master/Network-Application/lftp/lftp-install.md)|★★★★★|[lftp详情](https://github.com/asin929/linux-software/blob/master/Network-Application/lftp/lftp.md)|TODO|
 |ftp|比较常用的FTP客户端|[ftp-install](https://github.com/asin929/linux-software/blob/master/Network-Application/ftp/ftp-install.md)|★★★☆☆|[ftp详情](https://github.com/asin929/linux-software/blob/master/Network-Application/ftp/ftp.md)|TODO|
 |FileZilla|图形界面的FTP客户端|[FileZilla-install](https://github.com/asin929/linux-software/blob/master/Network-Application/FileZilla/FileZilla-install.md)|★★★★☆|[FileZilla详情](https://github.com/asin929/linux-software/blob/master/Network-Application/FileZilla/FileZilla.md)|TODO|
+
+
+
+---
+
+## 虚拟机
+|软件|简介|安装配置|星级|详情|注释|
+|---|---|---|---|---|---|
+|VirtualBox|功能强大的虚拟机软件|[VirtualBox-install](https://github.com/asin929/linux-software/blob/master/Network-Application/VirtualBox/VirtualBox-install.md)|★★★★★|[VirtualBox详情](https://github.com/asin929/linux-software/blob/master/Network-Application/VirtualBox/VirtualBox.md)|TODO|
+|VMware|简单实用的虚拟机软件|[VMware-install](https://github.com/asin929/linux-software/blob/master/Network-Application/VMware/VMware-install.md)|★★★★☆|[VMware详情](https://github.com/asin929/linux-software/blob/master/Network-Application/VMware/VMware.md)|TODO|
+|KVM|性能优异的虚拟机软件|[KVM-install](https://github.com/asin929/linux-software/blob/master/Network-Application/KVM/KVM-install.md)|★★★★☆|[KVM详情](https://github.com/asin929/linux-software/blob/master/Network-Application/KVM/KVM.md)|TODO|
+|Xen|性能优异的虚拟机软件|[Xen-install](https://github.com/asin929/linux-software/blob/master/Network-Application/Xen/Xen-install.md)|★★★☆☆|[Xen详情](https://github.com/asin929/linux-software/blob/master/Network-Application/Xen/Xen.md)|TODO|
+|QEMU|比Xen更老的模拟器，功能有限，操作麻烦|[QEMU-install](https://github.com/asin929/linux-software/blob/master/Network-Application/QEMU/QEMU-install.md)|★★☆☆☆|[QEMU详情](https://github.com/asin929/linux-software/blob/master/Network-Application/QEMU/QEMU.md)|TODO|
 
 
 ----
