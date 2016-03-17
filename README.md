@@ -2,9 +2,9 @@
 ## 任务分工
 |成员|章节|是否完成|
 |---|---|---|
-|[asin929](https://github.com/asin929)|1,2,3,4,5,6,7,10,12,13|否|
+|[asin929](https://github.com/asin929)|1,2,3,4,5,6,7,11,12|否|
 |[RacingDawn](https://github.com/RacingDawn)|8,9|否|
-|[qiudeyang](https://github.com/qiudeyang)|11.14|否|
+|[qiudeyang](https://github.com/qiudeyang)|10,13|否|
 
 
 ## linux经典软件索引
