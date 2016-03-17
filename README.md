@@ -31,6 +31,7 @@
 + [非BT下载工具](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E9%9D%9EBT%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 + [文件传输](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 + [FTP客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#FTP%E5%AE%A2%E6%88%B7%E7%AB%AF)
++ [虚拟机](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
 ### 3. [办公应用](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md)
 + [办公套件](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md#%E5%8A%9E%E5%85%AC%E5%A5%97%E4%BB%B6)
