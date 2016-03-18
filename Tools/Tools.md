@@ -1,4 +1,19 @@
+
+# 目录
+
+- [运维配置管理工具](#运维配置管理工具)
+- [性能测试工具](#性能测试工具)
+- [Memory Usage](#Memory Usage)
+- [Disk IO](#Disk IO)
+- [Network IO](#Network IO)
+- [压力测试工具](#压力测试工具)
+- [博客工具](#博客工具)
+- [监控应用](#监控应用)
+- [Linux终端](#Linux终端)
+
+
 ##  运维配置管理工具
+---
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
@@ -28,7 +43,9 @@ Puppet（Puppet + Foreman）&gt; Ansible
 如果需求比较简单就：Ansible &gt; Puppet（Puppet + Foreman）
 
 
+
 ## 性能测试工具
+---
 
 ### 工具：[top](http://superuser.com/questions/575202/understanding-top-command-in-unix/575330#575330)
 
@@ -104,9 +121,11 @@ Physical memory is your RAM, physical pieces of hardware that provide Random Acc
 
 >   **COMMAND** -- Command Name or Command Line : To see the full command line that launched the process, start top with the ``-c`` flag : ``top -c``.
 
----
+
 
 ## Memory Usage
+---
+
 
 ### 工具：[free](https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-sysinfo-memory-usage.html)
 
@@ -214,9 +233,10 @@ $ vmstat -s
    1382755972 boot time
          8567 forks
 ```
----
+
 
 ## Disk IO
+---
 
 ### 工具：[iostat](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
@@ -235,7 +255,9 @@ dm-1              0.10         0.70         0.41     180265     106345
 dm-2              0.00         0.03         0.16       8475      41342
 ```
 
+
 ## Network IO
+---
 
 ### 工具：[ifstat](http://www.binarytides.com/linux-commands-monitor-network/)
 
@@ -268,6 +290,7 @@ virbr0                 0 0             0 0             0 0             0 0
 
 
 ##  压力测试工具
+---
 
 
 **CPU** stress
@@ -283,6 +306,7 @@ virbr0                 0 0             0 0             0 0             0 0
 
 
 ##  博客工具
+---
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
@@ -301,6 +325,7 @@ Wordpress, Jekyll, Octopress用的人都挺多，都挺不错的。我没用过�
 
 
 ##  监控应用
+---
 
 |工具|简介|安装配置|星级|详情|备注|
 |---|---|---|---|---|---|
@@ -326,6 +351,7 @@ ICINGA项目是 由Michael Luebben、HendrikB?cker和JoergLinge等人发起的�
 
 
 ##  Linux终端
+---
 
 ###  Linux终端快捷键设置
 
