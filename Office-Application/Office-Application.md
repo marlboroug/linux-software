@@ -18,7 +18,7 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|WPS|Windows Office的完美替代品|[WPS-install](https://github.com/asin929/linux-software/blob/master/Office-Application/WPS/WPS-install.md)|★★★★★| [WPS详情](https://github.com/asin929/linux-software/blob/master/Office-Application/WPS/WPS.md) |TODO|
+|WPS|Windows Office的完美替代品|[WPS-install](https://github.com/asin929/linux-software/blob/master/Office-Application/WPS/WPS-install.md)|★★★★★| [WPS详情](https://github.com/asin929/linux-software/blob/master/Office-Application/WPS/WPS.md) |[wps for linux 不能使用中文输入法 ](http://blog.csdn.net/sanshuei/article/details/47813473)|
 |LibreOffice|非常好的办公套件|[LibreOffice-install](https://github.com/asin929/linux-software/blob/master/Office-Application/LibreOffice/LibreOffice-install.md)|★★★★☆| [LibreOffice详情](https://github.com/asin929/linux-software/blob/master/Office-Application/LibreOffice/LibreOffice.md) |TODO|
 |OpenOffice|跨平台的办公室软件套件|[OpenOffice-install](https://github.com/asin929/linux-software/blob/master/Office-Application/OpenOffice/OpenOffice-install.md)|★★★★☆| [OpenOffice详情](https://github.com/asin929/linux-software/blob/master/Office-Application/OpenOffice/OpenOffice.md) |TODO|
 |Google-Docs|谷歌办公套件|[Google-Docs-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Google-Docs/Google-Docs-install.md)|★★★★☆| [Google-Docs详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Google-Docs/Google-Docs.md) |TODO|
