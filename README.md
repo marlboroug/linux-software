@@ -78,9 +78,9 @@
 + 游戏
 
 
-### 10. [存储备份](wiz://open_document?guid=60f24bd6-8b78-422d-8c61-4c5a5a5b6a14&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 云存储
-+ 备份软件
+### 10. [存储备份](https://github.com/asin929/linux-software/blob/master/Storage-Backup/Storage-Backup.md)
++ [云存储](https://github.com/asin929/linux-software/blob/master/Storage-Backup/Storage-Backup.md#%E4%BA%91%E5%AD%98%E5%82%A8)
++ [备份软件](https://github.com/asin929/linux-software/blob/master/Storage-Backup/Storage-Backup.md#%E5%A4%87%E4%BB%BD%E8%BD%AF%E4%BB%B6)
 
 ### 11. [数据库软件](https://github.com/asin929/linux-software/blob/master/Database/Database.md)
 + [SQL数据库](https://github.com/asin929/linux-software/blob/master/Database/Database.md#SQL%E6%95%B0%E6%8D%AE%E5%BA%93)
