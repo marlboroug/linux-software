@@ -31,7 +31,6 @@
 + [非BT下载工具](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E9%9D%9EBT%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7)
 + [文件传输](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 + [FTP客户端](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#FTP%E5%AE%A2%E6%88%B7%E7%AB%AF)
-<<<<<<< HEAD
 + [虚拟机](https://github.com/asin929/linux-software/blob/master/Network-Application/Network-Application.md#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
 ### 3. [办公应用](https://github.com/asin929/linux-software/blob/master/Office-Application/Office-Application.md)
@@ -94,7 +93,7 @@
 + [UML图](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md#%E7%BC%96%E7%A8%8BIDE)
 + [LDAP管理工具](https://github.com/asin929/linux-software/blob/master/Program-Software/Program-Software.md#LDAP%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7)
 
-### 13. [工具汇总](wiz://open_document?guid=762dd123-a244-494b-829b-00993f63b1c2&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
+### 13. [工具汇总](https://github.com/asin929/linux-software/blob/master/Tools/Tools.md)
 + 运维配置管理工具
 + [性能测试工具](http://gitlab.local/toplevel/knowledgebase/wikis/Linux_Performance)
 + 压力测试工具
