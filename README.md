@@ -61,7 +61,7 @@
 ### 6. [文件处理](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md)
 + [文件管理](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
 + [文件差异比较工具](https://github.com/asin929/linux-software/blob/master/File-Processing/File-Processing.md#%E6%96%87%E4%BB%B6%E5%B7%AE%E5%BC%82%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7)
-+ [VNC]
+
 
 
 ### 7. [系统美化](https://github.com/asin929/linux-software/blob/master/System-Beautification/System-Beautification.md)
