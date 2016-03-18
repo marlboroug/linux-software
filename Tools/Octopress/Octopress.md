@@ -1,0 +1,1 @@
+Octopress是一个基于Ruby的开源Blogging Framework，在我看来Octopress天生就是为技术控准备的Blog，因为从写blog，到发布，你完全可以用Shell里面的命令搞定。这样，写起Blog来，会让技术控们觉得很有成就感。

@@ -1,0 +1,1 @@
+WordPress是一个免费的开源项目，在GNU通用公共许可证下授权发布。WordPress是一种使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。
