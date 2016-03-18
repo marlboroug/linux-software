@@ -1,17 +1,17 @@
 
-# 安装环境
+## 安装环境
 
-## 操作系统
+### 操作系统
 CentOS 6.7,64位，
 
-## 安装包名称
+### 安装包名称
 mongodb-linux-x86_64-3.0.6
 
-##	下载地址
+###	下载地址
 http://www.mongodb.org/downloads
 
 
-# 安装方法
+## 安装方法
 下载完安装包，并解压 tgz（以下演示的是 64 位 Linux上的安装） 。
 curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.0.6.tgz    # 下载
 tar -zxvf mongodb-linux-x86_64-3.0.6.tgz                                   # 解压
