@@ -72,10 +72,7 @@
 
     Error: Another program is already listening on a port that one of our HTTP servers is configured to use.  Shut this program down first before starting supervisord.
 
-**解决办法：**参考stackoverflow相关问题－－－[Stopping supervisord: Shut down](http://stackoverflow.com/questions/14479894/stopping-supervisord-shut-down)，执行`ps -ef | grep supervisord`，找到与angent相关的线程并kill掉即可，如下图所示。**不过，有时需要重复该操作两三次才可以解决问题。**
-
-![这里写图片描述](http://img.blog.csdn.net/20151109195231140)
-
+**解决办法：**参考stackoverflow相关问题－－－[Stopping supervisord: Shut down](http://stackoverflow.com/questions/14479894/stopping-supervisord-shut-down)，执行`ps -ef | grep supervisord`，找到与angent相关的线程并kill掉即可，之后重启agent，并执行`/opt/cm-5.3.8/etc/init.d/cloudera-scm-agent status`查看启动状态。**注意：有时需要重上述操作两三次才可解决该问题。**
 
 
 ### 3.error3
