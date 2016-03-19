@@ -85,9 +85,11 @@
 
 ---
 ## 其它环境安装
-参考链接：
+
 [1].[离线安装Cloudera Manager 5和CDH5(最新版5.1.3) 完全教程](http://www.cnblogs.com/jasondan/p/4011153.html)
+
 [2].[离线安装 Cloudera ( CDH 5.x )](http://www.cnblogs.com/modestmt/p/4540818.html)
+
 [3].[CDH离线安装手册](http://blog.selfup.cn/1486.html)
 
 
