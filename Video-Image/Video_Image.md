@@ -4,9 +4,9 @@
 
 - [图像浏览](#图像浏览)
 - [图像处理](#图像处理)
-- [音频播放器](#音频播放器)
+- [音频播放](#音频播放)
 - [音频编辑](#音频编辑)
-- [视频播放器](#视频播放器)
+- [视频播放](#视频播放)
 - [视频编辑](#视频编辑)
 
 
@@ -64,6 +64,91 @@ yEd
 2. [ linux 下的绘图软件Visio——流程图，矢量图 ](http://blog.csdn.net/trochiluses/article/details/9184469)
 
 ----
+
+## 音频播放
+
+|软件|简介|安装配置|星级|详情|注释|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Audacious|基于linux系统的免费简洁播放器|略|★★★★☆| [Audacious详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Audacious/Audacious.md)|无|
+|Rhythmbox|linux系统自带的免费播放器|略|★★★★☆| [Rhythmbox详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Rhythmbox/Rhythmbox.md)|无|
+|Amarok|适用KDE用户的免费播放器|略|★★★★☆| [Amarok详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Amarok/Amarok.md)|无|
+|XMMS|专门为X-Window设计的播放器|略|★★★☆☆| [XMMS详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/XMMS/XMMS.md)|无|
+|foobar2000|暂无Linux版本|略|★★★☆☆| [foobar2000详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/foobar2000/foobar2000.md)|无|
+
+**其它：**
+
+Banshee
+
+SongBird
+
+GmusicBrowser
+
+Bmpx
+
+**选择：**
+
+Rhythmbox，Audacious，Amarok这三个应该是Linux下重量级音乐播放器，大家任选一个吧，都很不错。我都是换着用的。KDE下Amarok应该比Rhythmbox要好些，GNOME下Rhythmbox应该比Amarok要好些。
+
+Amarok比Audacious功能上要强大，Audacious比较简洁，还是看个人选择。我比较喜欢Audacious，因为它比较简洁稳定，系统资源占用也比Amarok少。
+
+---
+
+## 音频编辑
+
+|软件|简介|安装配置|星级|详情|注释|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Audacity|Linux下最受欢迎的音频编辑软件|略|★★★★☆| [Audacity详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Audacity/Audacity.md)|无|
+|Ardour|专业人士的工作好助手|略|★★★★☆| [Ardour详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Ardour/Ardour.md)|无|
+
+**其它：**
+
+FFmpeg
+
+**选择：**
+
+Audacity &gt; Ardour &gt; FFmpeg
+
+---
+
+## 视频播放
+
+|软件|简介|安装配置|星级|详情|注释|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|VLC|VideoLAN计划的多媒体播放器|略|★★★★☆| [VLC详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/VLC/VLC.md)|无|
+|MPlayer|基于命令行界面的多媒体播放器|略|★★★★☆| [MPlayer详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/MPlayer/MPlayer.md)|无|
+|SMPlayer|MPlayer的一个图形化前端|略|★★★★☆| [SMPlayer详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/SMPlayer/SMPlayer.md)|无|
+
+**选择：**
+
+Linux下的视频播放器前三绝对是它们三个了。
+
+vlc ; MPlayer ; SMPlayer
+
+其实对我来说VLC和SMPlayer都差不多，上面的优先级是按受欢迎程度来排的。
+
+---
+
+## 视频编辑
+
+|软件|简介|安装配置|星级|详情|注释|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Kdenlive|Linux下最好的视频编辑软件|略|★★★★★| [Kdenlive详情](https://github.com/RacingDawn/linux-software/blob/master/Video-Image/Kdenlive/Kdenlive.md)|无|
+
+**其它（按受欢迎程度顺序列出）：**
+
+Blender
+
+Avidemux
+
+Openshot
+
+Cinelerra
+
+**选择：**
+
+kdenlive &gt; Blender &gt; Avidemux &gt; openshot &gt; Cinelerra
+
+---
 
 [↑ 返回上级](https://github.com/RacingDawn/linux-software)
 
