@@ -1,0 +1,2 @@
+
+Kdenlive是一套开源的视频非线编辑软件。Kdenlive可以通过FFmpeg 编辑所有格式的视频文件，这就意味着DV、HDV、mpeg、avi、mp4、mov、flv、ogg、wav、mp3和vorbis这些格式都将被支持。Kdenlive是一款非常专业的视频编辑软件。可以毫不夸张的说Kdenlive是Linux下最好的视频编辑软件。
