@@ -150,6 +150,6 @@ kdenlive &gt; Blender &gt; Avidemux &gt; openshot &gt; Cinelerra
 
 ---
 
-[↑ 返回上级](https://github.com/RacingDawn/linux-software)
+[↑ 返回上级](https://github.com/asin929/linux-software)
 
-[← 返回首页](https://github.com/RacingDawn/linux-software)
+[← 返回首页](https://github.com/asin929/linux-software)
