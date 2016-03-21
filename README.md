@@ -66,16 +66,16 @@
 ### 7. [系统美化](https://github.com/asin929/linux-software/blob/master/System-Beautification/System-Beautification.md)
 + [桌面环境](https://github.com/asin929/linux-software/blob/master/System-Beautification/System-Beautification.md#%E6%A1%8C%E9%9D%A2%E7%BE%8E%E5%8C%96)
 
-### 8. [图像影音](wiz://open_document?guid=33f18df6-5ca3-4315-a4f2-0a31809d1881&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 图像浏览
-+ 图像处理
-+ 音频播放器
-+ 音频编辑软件
-+ 视频播放器
-+ 视频编辑
+### 8. [图像影音](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md)
++ [图像浏览](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E5%9B%BE%E5%83%8F%E6%B5%8F%E8%A7%88)
++ [图像处理](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
++ [音频播放器](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE)
++ [音频编辑软件](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E9%9F%B3%E9%A2%91%E7%BC%96%E8%BE%91)
++ [视频播放器](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE)
++ [视频编辑](https://github.com/asin929/linux-software/blob/master/Video-Image/Video_Image.md#%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91)
 
-### 9. [游戏娱乐](wiz://open_document?guid=3d4b902d-9df3-41a5-a033-ce3a5803bf5f&kbguid=&private_kbguid=b259acc0-fd68-4b42-95c2-76f8bfaef3ea)
-+ 游戏
+### 9. [游戏娱乐](https://github.com/asin929/linux-software/blob/master/Game/Game.md)
++ [游戏](https://github.com/asin929/linux-software/blob/master/Game/Game.md#%E6%B8%B8%E6%88%8F)
 
 
 ### 10. [存储备份](https://github.com/asin929/linux-software/blob/master/Storage-Backup/Storage-Backup.md)
