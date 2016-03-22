@@ -8,7 +8,7 @@
 
 ## 特别鸣谢
 
-@marlboroug,@chifa01
+@[marlboroug](https://github.com/marlboroug),@[chifa01](https://github.com/chifa01)
 
 ## linux经典软件索引
 
