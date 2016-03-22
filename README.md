@@ -8,7 +8,7 @@
 
 ## 特别鸣谢
 
-@
+@marlboroug,@chifa01
 
 ## linux经典软件索引
 
