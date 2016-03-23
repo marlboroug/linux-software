@@ -76,7 +76,7 @@
 
 |软件|简介|安装配置|星级|详情|注释|
 |---|---|---|---|---|---|
-|vim|编辑器之神|[vim开启markdown模式](https://github.com/asin929/linux-software/blob/master/Office-Application/vim/vim-install.md)|★★★★★ |[vim详情](https://github.com/asin929/linux-software/blob/master/Office-Application/vim/vim.md) |TODO|
+|vim|编辑器之神|[vim开启markdown模式](https://github.com/asin929/linux-software/blob/master/Office-Application/vim-markdown/vim-markdown-install.md)|★★★★★ |[vim-markdown详情](https://github.com/asin929/linux-software/blob/master/Office-Application/vim-markdown/vim-markdown.md) |TODO|
 |ReText|linux常用的markdown编辑器|[ReText-install](https://github.com/asin929/linux-software/blob/master/Office-Application/ReText/ReText-install.md)|★★★★☆ |[ReText详情](https://github.com/asin929/linux-software/blob/master/Office-Application/ReText/ReText.md) |TODO|
 |Cmd-Markdown|全平台的markdown编辑器|[Cmd-Markdown-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Cmd-Markdown/Cmd-Markdown-install.md)|★★★★☆  |[Cmd-Markdown详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Cmd-Markdown/Cmd-Markdown.md) |TODO|
 |[Haroopad](http://pad.haroopress.com/user.html)|功能比较全的markdown编辑器|[Haroopad-install](https://github.com/asin929/linux-software/blob/master/Office-Application/Haroopad/Haroopad-install.md)|★★★★☆ |[Haroopad详情](https://github.com/asin929/linux-software/blob/master/Office-Application/Haroopad/Haroopad.md) |TODO|
