@@ -47,7 +47,7 @@
 
 ImageMagick
 
-yEd
+
 
 **选择：**
 
@@ -55,13 +55,19 @@ yEd
 
 3D作图： Blender
 
-画流程图： Dia+yEd，想用编程的方式画就Graphviz
-
+画流程图：
++ 一般软件： Dia+yEd
++ 使用编程的方式画： Graphviz
++ 在线绘图：推荐[draw.io](https://www.draw.io/)，[ProcessOn](http://www.processon.com/diagrams#)，[jgraph](http://jgraph.github.io/mxgraph/javascript/examples/grapheditor/www/index.html)，[gliffy](https://www.gliffy.com/)
 **Read more**
 
 1. [Linux应用环境实战11：发博客必备的五大图片处理神器](http://www.cnblogs.com/youxia/p/linux011.html)
 
 2. [ linux 下的绘图软件Visio——流程图，矢量图 ](http://blog.csdn.net/trochiluses/article/details/9184469)
+
+3. [最好的画流程图的软件是什么？](https://www.zhihu.com/question/20854046)
+
+4. [用什么软件画流程图？](https://www.zhihu.com/question/20177573)
 
 ----
 
